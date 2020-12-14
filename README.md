@@ -16,7 +16,7 @@ bibtex paper.aux
 xelatex paper.tex
 ```
 
-最后生成paper.pdf
+Finally, paper.pdf is generated.
 
 ## 2. result
 
