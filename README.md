@@ -1,12 +1,12 @@
 # paper-template
 
-一个支持中英文的论文模板。
+A latex paper template that supports both Chinese and English.
 
-## 使用方法
+## 1. usage
 
-tex文件夹有两个文件: paper.tex和ref.bib,分别是tex源码和参考文献。
+There are two files in the tex folder: paper.tex and ref.bib, which are tex source code and references.
 
-编译步骤:
+compile steps:
 
 ```
 xelatex paper.tex
@@ -18,6 +18,6 @@ xelatex paper.tex
 
 最后生成paper.pdf
 
-## 最终效果
+## 2. result
 
 ![avatar](intro.png)
